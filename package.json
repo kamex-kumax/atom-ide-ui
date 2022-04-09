@@ -46,7 +46,7 @@
     "marked": "0.3.9",
     "mime-types": "2.1.16",
     "mkdirp": "0.5.1",
-    "moment": "2.21.0",
+    "moment": "2.29.2",
     "mv": "2.1.1",
     "nuclide-prebuilt-libs": "0.5.2",
     "nullthrows": "1.0.0",
