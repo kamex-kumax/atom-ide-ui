@@ -22,7 +22,7 @@
     "invariant": "2.2.2",
     "lodash": "4.17.21",
     "log4js": "6.4.0",
-    "moment": "2.21.0",
+    "moment": "2.29.4",
     "nuclide-commons": "0.7.3-dev",
     "nuclide-commons-atom": "0.7.3-dev",
     "nullthrows": "1.0.0",
